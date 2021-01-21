@@ -132,53 +132,5 @@ hr{
     padding-bottom: 20px;
     text-align: center;
 }
-/****************************************************************Photos************************************************/
-#taswira {
-    width: 100%;
-  padding: 0 7%;
-  display: table;
-  margin: 0;
-  max-width: none;
-  background-color: #373B44;
-  height: 100vh;
-    background-image:url("labo1.jpg");
-    background-repeat:no-repeat;
-  background-size:cover;}
-
-  section:nth-of-type(2n) {
-    background-color: #FE4B74;
-    background-image:url("labo1.jpg");
-    }
-#taswira1 {
-        width: 100%;
-      padding: 0 7%;
-      display: table;
-      margin: 0;
-      max-width: none;
-      background-color: #373B44;
-      height: 100vh;
-        background-image:url("labo2.jpg");
-        background-repeat:no-repeat;
-      background-size:cover;}
-    
-      section:nth-of-type(2n) {
-        background-color: #FE4B74;
-        background-image:url("labo2.jpg");
-}
-#taswira2 {
-    width: 100%;
-  padding: 0 7%;
-  display: table;
-  margin: 0;
-  max-width: none;
-  background-color: #373B44;
-  height: 100vh;
-    background-image:url("labo3.jpg");
-    background-repeat:no-repeat;
-  background-size:cover;}
-
-  section:nth-of-type(2n) {
-    background-color: #FE4B74;
-    background-image:url("labo3.jpg");
-}
+ 
    
